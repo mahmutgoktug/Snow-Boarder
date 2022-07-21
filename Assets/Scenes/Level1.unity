@@ -11070,7 +11070,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 935562077}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 15.36, y: -3.72, z: 0}
+  m_LocalPosition: {x: 305.08, y: -63.06, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1450417099}
@@ -18539,7 +18539,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a47119e33422c9748a87dc094c22230a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  torqueAmount: 11
+  torqueAmount: 8
   boostSpeed: 30
   baseSpeed: 20
 --- !u!114 &1627530820
